@@ -1,5 +1,5 @@
 # 本软件为开源软件,没有上架Google Play,没有在任何地方售卖,如果想支持我请通过软件里的捐赠,不要在任何地方购买!
-# blog http://www.hostfans.cn
+# blog http://blog.lmz8.cn
 # 开发
 - 本项目Fork于 https://github.com/ZhangQinhao/MONKOVEL
 - fork 之后主要开发人员 kunfei https://github.com/gedoor
